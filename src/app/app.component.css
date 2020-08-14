@@ -1,0 +1,25 @@
+header {
+  background: pink;
+  color: darkslateblue;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+button {
+  margin-left: 600px;
+}
+section {
+  background: floralwhite;
+  text-align: center;
+}
+
+ul {
+  background: indigo;
+  color: yellowgreen;
+}
